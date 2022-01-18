@@ -9,3 +9,7 @@ td {
 th {
 	font-weight: normal;
 }
+h2 {
+	text-align: center;
+	font-style: italic;
+}
