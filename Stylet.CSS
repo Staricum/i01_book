@@ -7,7 +7,5 @@ h2 {
 	font-weight: normal;
 }
 p {
-	font-size: 15px;
-	font-family: Comic Sans MS;
-	line-height: 2.0;
+	font: bold 40px/300px red Arial;
 }
