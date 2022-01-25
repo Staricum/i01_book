@@ -1,13 +1,2 @@
-h1 {
-	font-size: 50px;
-	text-align: center;
-}
-h2 {
-	font-size: 40px;
-	font-weight: normal;
-}
-p {
-	text-indent: 50px;
-	text-align: justify;
-	width: 400px;
-}
+.odd {color: red;}
+.eve {color: green;} 
