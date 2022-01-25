@@ -1,2 +1,7 @@
-.block1 {color: red;}
-.block2 {color: green;}
+.eee {color: red;
+font-size: 20px;}
+.zzz {color: blue;
+font-size: 30px;}
+.eee .zzz {	line-height: 1.5;
+	font-family: Arial;
+}
