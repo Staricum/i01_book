@@ -1,9 +1,2 @@
-.eee {color: red;
-font-size: 20px;}
-.zzz {color: blue;
-font-size: 30px;}
-.ggg {color: brown;
-font-size: 35px;}
-.eee .zzz {	text-align: center;
-	font-family: Arial;
-}
+h2.harder {font-size: 40px;}
+h3.harder {font-size: 30px;}
