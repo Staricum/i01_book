@@ -1,1 +1,8 @@
-.eee h2.bbb {color:red; } 
+#parent { width: 500px;
+	height:500px;
+	border: 1px dotted blue;}
+
+#child {width: 350px;
+	height:400px; 
+border: 1px solid orange;
+margin: 60px; }
