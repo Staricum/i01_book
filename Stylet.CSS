@@ -1,1 +1,12 @@
-.eee h2.bbb {color:red; } 
+
+#parent { width:200px;
+	height:100px;
+	border: 1px solid red;
+}
+#child {width: 150px;
+	height:70px; 
+border: 1px solid green;
+margin-top:8px;
+margin-left:20px;
+margin-bottom:16px;
+margin-right:6px;   }
