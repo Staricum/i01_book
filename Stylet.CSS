@@ -1,5 +1,13 @@
-#elem {width: 200px;
-	padding: 60px;
+#elem {width: 500px;
+	padding: 10px;
+text-align: justify;
+border: 1px solid green;
+}
+
+
+#parent {width:200px ;
+padding: 10px;
+margin: 20px;
 text-align: justify;
 border: 1px solid red;
 }
