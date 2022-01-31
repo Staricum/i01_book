@@ -1,10 +1,10 @@
 
-#parent { width:160px;
-	height:180px;
+#parent { width: 250px;
+	height:100px;
 	border: 1px solid orange;
 }
-#child {width: 80px;
+#child {width: 100px;
 	height: 60px; 
 border: 1px dotted blue;
-margin: 80px 40px 18px} 
+margin: 20px 80px 30px} 
 
