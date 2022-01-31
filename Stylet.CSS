@@ -1,8 +1,11 @@
-#parent { width: 500px;
-	height:500px;
-	border: 1px dotted blue;}
-
-#child {width: 350px;
-	height:400px; 
-border: 1px solid orange;
-margin: 60px; }
+#grandparent {width:400px;
+height:300px;
+border: 1px dotted blue; }
+#parent { width:350px;
+	height:250px;
+	border: 1px dotted green;
+margin: 20px;}
+#child {width: 310px;
+	height:200px; 
+border: 1px solid red;
+margin: 20px; }
