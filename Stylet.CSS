@@ -1,1 +1,7 @@
-.eee h2.bbb {color:red; } 
+#elem {width: 300px;
+	padding-top: 4px;
+padding-bottom: 15px;
+padding-right: 3px;
+padding-left: 20px;  
+border: 1px solid red;
+}
