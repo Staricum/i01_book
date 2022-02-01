@@ -1,1 +1,12 @@
-.eee h2.bbb {color:red; } 
+#sas {width:100px ;
+height: 100px;
+background: f1f1f1;
+margin-bottom: 20px;
+border: 2px solid red;}
+
+#elem {width:100px ;
+height: 100px;
+background: f1f1f1;
+padding: 25px;
+border:3px solid green;
+box-sizing: border-box;}
