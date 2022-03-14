@@ -1,8 +1,29 @@
-#resize1
+#select1 .ui-selecting
 {
-padding:15px;
-border-style:solid;
+background:#E3B1F3;
+border-style:solid; 
 border-width:1px;
-width:200px;
-height:100px;
+}
+#select1 .ui-selected 
+{
+font-weight:bold;
+font-size:1.1em;
+border-style:solid; 
+border-width:1px;
+background: #B964D4; 
+}
+#select1 
+{
+list-style-type:none; 
+margin:0; 
+padding:0; 
+width:45%; 
+}
+#select1 li 
+{ 
+margin:2px;
+padding: 0.4em; 
+border-style:solid; 
+border-width:1px;
+height: 18px; 
 }
