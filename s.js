@@ -1,6 +1,12 @@
-$(document).ready(function() {
+$(document).ready(function(){
 
-   $("#but1,#but2,#but3,#but4").button();
-   $("#group1,#group2").buttonset();
+   $("#accordion1").accordion();
 
+$("#accordion1").accordion();
+$("#accordion2").accordion();
+
+$("#auto").autocomplete({source:$("#list").text().split("\\n"), minLength:"3"});
+
+$("#el1, #el2").button();
+$("#el3").buttonset()
 });
