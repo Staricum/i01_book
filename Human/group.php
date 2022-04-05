@@ -18,7 +18,7 @@ class Group {
 		}
 		public function show() { 
 			echo '<h1>Группа '.$this->title.'</h1>';
-			echo '<h2>Группа Список студентов</h2>';
+			echo '<h2>Список студентов</h2>';
 			foreach ($this->students as $student) { 
 				$student->display();
 		}
