@@ -19,7 +19,7 @@ $group1 = new Group(1, 'И-01');
 $group2 = new Group(2, 'И-02');
 $group3 = new Group(3, 'И-03');
 
-loadStudents($group1, 'i01.txt');
+loadStudents($group2, 'i02.txt');
 
-$group1->show();
+$group2->show();
 ?> 
