@@ -15,3 +15,5 @@ abstract class Human {
 		echo sprintf ('%s %s %s ',$this->surname,$this->name,$this->patronymic);
 	}
 } 
+
+?>
