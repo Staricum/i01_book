@@ -1,7 +1,9 @@
 <?php
-require_once '/core/modules/shop/cart.php';
-require_once '/project/modules/shop/cart.php';
+require_once '/core/modules/marketCart.php';
+require_once '/project/modules/marketCart.php';
+require_once '/project/modules/shopCart.php';
+require_once '/core/modules/shopCart.php';
 
-$coreController = new \core\modules\shop\cart;
-$projectController = new \project\modules\shop\cart;
+$coreController = new \core\modules\cart;
+$projectController = new \project\modules\cart;
 ?>
