@@ -3,4 +3,4 @@ RewriteBase /i01/i01_book/0425
 
 RewriteCond %{REQUEST_URI} !^/project/webroot/
 RewriteRule .+ index.php
- 
+  
